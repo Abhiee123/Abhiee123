@@ -1,11 +1,11 @@
-
-### 📫 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+  <a href="https://github.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
 </p>
 
-
-
+<p align="center">
+  Feel free to reach out for collaborations or just to say hi 👋
+</p>
