@@ -1,21 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhe Modi</h1>
-<h3 align="center">Data Science Postgraduate | AI Enthusiast | ML Developer</h3>
 
----
-
-### 🧠 About Me
-🎓 I'm a **Data Science postgraduate** and **AI enthusiast** passionate about building intelligent systems.  
-💻 I enjoy developing **ML models, analytical dashboards, and workflow automations** using modern tools.  
-📚 Currently exploring **Deep Learning**, **LangChain**, and **RAG-based AI systems**.  
-⚡ Always eager to learn, build, and collaborate on impactful data projects.
-
----
-
-### 🔍 Open to Opportunities
-- ✅ Looking for **internships**, **research roles**, or **full-time opportunities** in **Data Science**, **ML**, or **AI**.  
-- 🤝 Open to collaborations on **ML**, **NLP**, **Deep Learning**, or **data-driven projects**.
-
----
 
 ### 🌐 Connect With Me
 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
