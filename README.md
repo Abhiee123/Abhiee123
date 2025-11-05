@@ -1,11 +1,15 @@
-### 🌐 Let's Connect
+### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINK/"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="github"/>
+  </a>
 </p>
 
-<p align="center">
-  Feel free to reach out for collaborations or just to say hi 👋
-</p>
+<p align="center">✨ Let's build something amazing together ✨</p>
